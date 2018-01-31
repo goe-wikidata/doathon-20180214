@@ -10,11 +10,12 @@
 
 ## What is this event about?
 
-We invite you to join us for this two-day event about trying and learning Wikidata. Our aim is to pilot projects showing how Göttingen Campus and Wikidata can work together on a common free and open knowledge base.
+We invite you to join us for a two-day introductory event about Wikidata, a free and open knowledge base. Our aim is to bring together members from the Göttingen Campus and the Wikidata community to pilot projects that improve re-use from and contributions to Wikidata.
+
 
 ## How does it work?
 
-This event is organised as a do-a-thon. After a brief introduction into Wikipedia, we will pitch ideas for new projects and challenges. You are free to join any team to get a project started. 
+This event is organised as a do-a-thon. After a brief introduction into Wikidata, we will pitch ideas for new projects and challenges. You are free to join any team to get a project started. 
 
 We'll be using this GitHub repository for documenting and discussing ideas before, during, and after the event, both for remote participants and everyone else who is interested. 
 
