@@ -2,6 +2,12 @@
 
 14 - 15 February SUB Zentralgebäude
 
+## When?
+
+14 February: 1 pm - 5pm 
+
+15 February: 9am - 1pm
+
 ## What is this event about?
 
 We invite you to join us for this two-day event about trying and learning Wikidata. Our aim is to pilot projects showing how Göttingen Campus and Wikidata can work together on a common free and open knowledge base.
