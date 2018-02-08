@@ -1,6 +1,6 @@
 ## Wikidata / SUB Do-A-Thon
 
-14 - 15 February SUB Zentralgebäude
+14 - 15 February SUB Zentralgebäude, Großer Konferenzraum 3.03 a
 
 ## When?
 
