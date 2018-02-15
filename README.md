@@ -1,6 +1,8 @@
 ## Wikidata / SUB Do-A-Thon
 
-14 - 15 February SUB Zentralgebäude
+14 February 2018 SUB Zentralgebäude, Großer Seminarraum 1. OG
+
+15 February 2018, [SUB Zentralgebäude, Großer Konferenzraum 3.03 a](https://www.google.com/maps/dir/G%C3%B6ttingen,+G%C3%B6ttingen+station+(train),+G%C3%B6ttingen/51.5400429,9.9357927/@51.5383352,9.9269696,16z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x47a4d4b869a4f7f3:0xf5641a11f0c1fb3c!2m2!1d9.9267731!2d51.5366143!1m0!3e2)
 
 ## When?
 
