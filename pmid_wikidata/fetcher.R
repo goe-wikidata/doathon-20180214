@@ -4,7 +4,7 @@ library(tidyverse)
 #'
 #' From:
 #' <https://sfb1002.med.uni-goettingen.de/production/literature>
-tt <- readxl::read_xlsx("~/Downloads/2018-02-14_excel_export.xlsx")
+tt <- readxl::read_xlsx("2018-02-14_excel_export.xlsx")
 tt
 #' 2. Check if publications are already available via Wikidata
 #'
